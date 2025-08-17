@@ -1,16 +1,11 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Tyler Deschamps | Embedded Software Architect
+author: Tyler Deschamps
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  I'm Tyler Deschamps, an embedded software and systems engineer who designs and develops complex, real-time, safety-critical systems in the aerospace industry. Experienced in end-to-end development and system architecture, I build solutions that seamlessly connect hardware and software. Curious, approachable, and always eager to share knowledge, I thrive on organized collaboration and inter-team communication. Outside of work, I explore drones, robotics, and off-road adventures. I'm always chasing hands-on challenges and innovation.
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
-
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -33,10 +28,9 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Professional Projects
     title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    title_old_projects: Academic/Personal Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
