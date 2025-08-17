@@ -2,9 +2,9 @@ title: My Portfolio
 description: >
   Projects, Experience, and More!
 
-remote-theme: abhinavs/moonwalk # You can change this to another supported theme
-plugins:
-  - jekyll-remote-theme
+theme: null # You can change this to another supported theme
+include:
+  - moonwalk
 
 navigation:
   - title: "Home"
