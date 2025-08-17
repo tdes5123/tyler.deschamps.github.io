@@ -1,4 +1,15 @@
 title: My Portfolio
 description: >
-  Projects and experience
-theme: ubuild-jekyll   # You can change this to another supported theme
+  Projects, Experience, and More!
+  
+remote-theme: forestryio/ubuild-jekyll # You can change this to another supported theme
+plugins:
+  - jekyll-remote-theme
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "About"
+    url: "/about"
