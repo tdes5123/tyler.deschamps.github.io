@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: About
 ---
 
-Hi, I’m Tyler Deschamps, a computer science professional.  
-This site highlights my projects and experience.
+This is an example page!
+
+Actually, it has the same layout of a post...
